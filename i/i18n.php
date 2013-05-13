@@ -1,0 +1,1 @@
+<? //i18n & l10n  $t["es"]["adelante"];  function vista($x){ 	include($x);  }    if(isset($_GET["lang"])){ 	 	 	$lenguaje=$_GET["lang"]; 	$_SESSION["lang"]=$lenguage;  }else{ 	 	if(isset( $_SESSION["lang"])) $_SESSION["lang"]; 	$lenguaje="es";  }  ?>

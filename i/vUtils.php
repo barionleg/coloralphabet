@@ -1,0 +1,1 @@
+<?function mensajeCondicion($x,$vista){	if(isset($_GET[$x])){			include "v/mensaje/".$vista;		}}?>

@@ -1,0 +1,58 @@
+Colores aleatorios
+Colores standard
+Dactilográficamente 
+Sin Dactilografía
+Listar libros
+Acerca de texto en colores
+Atrás
+Siguiente
+[Esconder/mostrar texto]
+Libros
+cambia los colores de cada letra al azar
+abrevia las palabras
+RSS a colores
+Proxima versión
+Agregar una combinación propia de colores y que se pueda guardar
+Introducir por medio de un texto imágenes propias, sonidos, etc al libro y poder compartir
+Lectura rápida al estilo
+Agregar un lenguaje de sonidos
+Se pueden subir alfabetos con simbolos, colores o sonidos propios
+Traduzca sus libros a un alfabeto de colores
+Alfabeto en colores entrega una coleccion de libros en un lenguaje de colores
+alfabeto en colores,abecedario colores, leer en colores, dislexia, libros en colores
+Alfabeto en Colores, lenguaje en colores, libros con colores
+nombre de usuario
+contraseña
+entrar
+registrarse
+o
+en segundos
+repetir contraseña
+Crear una nueva cuenta
+Sólo necesitas un nombre de usuario y una contraseña
+nada más que eso? sólo hay una forma de averiguarlo
+e-mail (opcional)
+Filosofía de privacidad
+Nos limitamos a los datos recopilados sobre usted y su uso de la plataforma
+Su información personal nunca se vende
+Utilizamos y divulgamos información para evitar que la gente abuse de la plataforma
+pero nunca revelamos por cualquier otra razón a menos que sea requerido por la ley
+inténtalo con otro
+¡disponible!
+nombre de usuario inválido
+conectado
+El email es incorrecto
+El email es correcto
+El password es incorrecto
+Correcto
+Salir
+Contraseña inválida
+Subir libro
+Subir Libro en Html:
+Enviar un nuevo archivo:
+no parece correcto, vuelve a intentarlo
+Crear Alfabeto
+Listar Alfabetos
+[Esconder/mostrar Colores]
+[Cualquier libro: lugar aleatorio]
+[Lugar aleatorio en el libro]

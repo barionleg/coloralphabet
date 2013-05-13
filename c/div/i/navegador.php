@@ -1,0 +1,1 @@
+<?function explora_ruta($ruta){        $cadena = "";    $manejador = @dir($ruta);        while ($recurso = $manejador->read()){            $nombre = "$recurso";       		if(stripos($nombre,".html")>2){							$cadena .= "<a href=\"index.php?libro=$nombre\">$nombre</a>";									$cadena .= "<br />";		}    }    $manejador->close();    return $cadena;}?>
